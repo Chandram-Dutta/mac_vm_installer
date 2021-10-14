@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Linux MacVM Installerm',
       theme: yaru.lightTheme,
       darkTheme: yaru.darkTheme,
       home: const MyHomePage(),
